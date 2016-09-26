@@ -1,0 +1,28 @@
+{
+  "name": "xm-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuMing-XM/xm-common.git"
+  },
+  "author": "xuming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XuMing-XM/xm-common/issues"
+  },
+  "homepage": "https://github.com/XuMing-XM/xm-common#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "webpack": "^1.13.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
